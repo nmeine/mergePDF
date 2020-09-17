@@ -1,0 +1,1 @@
+Simple python script that appends two files. Written because I'm tired of doing it the slow way.
